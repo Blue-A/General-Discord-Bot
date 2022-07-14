@@ -6,7 +6,11 @@ The General Discord Bot was made in mind to provide utility to administrive and 
 
 Highlighted features <br/>
 - Recording member information within a JSON file that the server uses for commands.<br/>
+  - Keeps track of the number of times a user has been warned.<br/>
+  - Keeps track of the number times a user used a blacklisted word.<br/>
 - The ability for members to gain points that are used to buy roles within the server.<br/>
+  - Roles can be recorded within a JSON file with their purchase price.
+  - Users are able to view what roles are purchasable with their price from an embed.
 - Adding words to a blacklist that are forbidden within the server.<br/>
 - Detects messages with blacklisted words.<br/> 
   - Deletes messages that contain the blacklisted words <br/> 
