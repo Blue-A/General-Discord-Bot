@@ -8,7 +8,9 @@ Highlighted features <br/>
 - Recording member information within a JSON file that the server uses for commands.<br/>
 - The ability for members to gain points that are used to buy roles within the server.<br/>
 - Adding words to a blacklist that are forbidden within the server.<br/>
-- Detects forbidden words and warns members of their message that contains forbidden words.<br/>
+- Detects messages with blacklisted words.<br/> 
+  - Deletes messages that contain the blacklisted words <br/> 
+  - Warns members of their message that contains forbidden words.<br/>
 - Ban or unban multiple members within a single command.<br/>
 - Warn, mute and unmute members within the channel.<br/>
 - Create roles, categories, channels with the ability to delete them.<br/>
