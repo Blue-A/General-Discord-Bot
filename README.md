@@ -9,18 +9,22 @@ Highlighted features <br/>
   - Keeps track of the number of times a user has been warned.<br/>
   - Keeps track of the number times a user used a blacklisted word.<br/>
 - The ability for members to gain points that are used to buy roles within the server.<br/>
-  - Roles can be recorded within a JSON file with their purchase price.
-  - Users are able to view what roles are purchasable with their price from an embed.
+  - Roles can be recorded within a JSON file with their purchase price.<br/>
+  - Users are able to view what roles are purchasable with their price from an embed. <br/>
 - Adding words to a blacklist that are forbidden within the server.<br/>
 - Detects messages with blacklisted words.<br/> 
-  - Deletes messages that contain the blacklisted words <br/> 
+  - Deletes messages that contain the blacklisted words.<br/> 
   - Warns members of their message that contains forbidden words.<br/>
 - Ban or unban multiple members within a single command.<br/>
+  - Users are sent a message from the bot with a reasoning on their ban.<br/>
 - Warn, mute and unmute members within the channel.<br/>
+  - Users are notified when they are warned with a reason.
 - Create roles, categories, channels with the ability to delete them.<br/>
 - Advertise a messsage within a channel every thrity minutes.<br/>
-- Send a GIF as a reaction to other members.<br/>
+  - The advertisement message can be modified.<br/>
 - A modified help function that can provide further description on commands.<br/>
+  - The help command can specifically show the format of commands with examples on how to use the command.<br/>
+- Send a GIF as a reaction to other members.<br/>
 
 How to use:<br/>
 First, you must login to your Discord account from this link and create an application.<br/>
