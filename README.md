@@ -31,6 +31,10 @@ How to use:<br/>
 First, you must login to your Discord account from this link and create an application.<br/>
 https://discord.com/developers/applications<br/>
 <br/>
-Once the application is created, there is an option to create an bot.
+Once the application is created, there is an option on the left hand sidebar to create an bot. Create a bot with your chosen name for it.<br/>
+Within the Discord application, there is an option on the left hand side bar to make a server.<br/>
+![Create Server](https://user-images.githubusercontent.com/44824707/179077695-85fd4e26-9d17-4ff1-9194-1e59a7e93dab.png)
+
+
 
 
