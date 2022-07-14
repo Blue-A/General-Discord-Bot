@@ -25,6 +25,7 @@ Highlighted features <br/>
 - A modified help function that can provide further description on commands.<br/>
   - The help command can specifically show the format of commands with examples on how to use the command.<br/>
 - Send a GIF as a reaction to other members.<br/>
+- Checks if users have the correct permissions to execute commands.<br/>
 
 How to use:<br/>
 First, you must login to your Discord account from this link and create an application.<br/>
