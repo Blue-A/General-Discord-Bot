@@ -32,7 +32,7 @@ First, you must login to your Discord account from this link and create an appli
 https://discord.com/developers/applications<br/>
 <br/>
 Once the application is created, there is an option on the left hand sidebar to create an bot. Create a bot with your chosen name for it.<br/>
-<img src="https://github.com/Blue-A/General-Discord-Bot/blob/main/Images/Screen%20Shot%202022-07-14%20at%204.37.26%20PM.png" alt="Create Bot" height="400" width="525"><br/>
+<img src="https://github.com/Blue-A/General-Discord-Bot/blob/main/Images/Screen%20Shot%202022-07-14%20at%204.37.26%20PM.png" alt="Create Bot" height="400" width="575"><br/>
 Within the Discord application, there is an option on the left hand side bar to make a server.<br/><br/>
 <img src="https://user-images.githubusercontent.com/44824707/179077695-85fd4e26-9d17-4ff1-9194-1e59a7e93dab.png" alt="Create Server" height="500" width="525"/>
 
