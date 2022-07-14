@@ -33,7 +33,7 @@ https://discord.com/developers/applications<br/>
 <br/>
 Once the application is created, there is an option on the left hand sidebar to create an bot. Create a bot with your chosen name for it.<br/>
 Within the Discord application, there is an option on the left hand side bar to make a server.<br/>
-![Create Server](https://user-images.githubusercontent.com/44824707/179077695-85fd4e26-9d17-4ff1-9194-1e59a7e93dab.png)
+![Create Server](https://user-images.githubusercontent.com/44824707/179077695-85fd4e26-9d17-4ff1-9194-1e59a7e93dab.png = 500x625)
 
 
 
