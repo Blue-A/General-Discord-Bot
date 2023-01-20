@@ -1,5 +1,5 @@
 # General-Discord-Bot
-A discord bot with general, administrative and moderation commands. This also includes customized help command that uses a embed and the ability to blacklist words from the server. 
+A discord bot with general, administrative and moderation commands. This also includes customized a help command that uses a embed and the ability to blacklist words from the server. 
 
 Purpose <br/>
 The General Discord Bot was made in mind to provide utility to administrive and moderation members of a Discord server. The some of the commands are features found within Discord however, the commands shorten the process of having to manually execute Discord features. Other commands were designed outside of what the Discord GUI application is able to provide to general users.
