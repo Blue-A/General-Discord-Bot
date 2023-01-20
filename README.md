@@ -31,8 +31,7 @@ How to use:<br/>
 First, you must login to your Discord account from this link and create an application by using the Discord Developer Portal.<br/>
 https://discord.com/developers/applications<br/>
 <br/>
-Once the application is created, there is an option on the left hand sidebar to create an bot. Create a bot with your chosen name for it.<br/>
-Within the Discord application, there is an option on the left hand side bar to make a server. Click the button like within the image and create a server with your chosen settings.<br/><br/>
+Once the application is created, there is an option on the left hand sidebar to create an bot. Create a bot with your chosen name for it. Within the Discord application, there is an option on the left hand side bar to make a server. Click the button like within the image and create a server with your chosen settings.<br/><br/>
 The Discord Developer Portal has an option on the lefthand side that create an OAuth2 URL. Click OAuth2 and click the dropdown menu option URL Generator in order to make a link to connect the bot to the server. This is done by clicking bot in scope and administrator afterwards.<br/>
 There are two environmental variables that will need to be set on your computer or IDE: <br/>
 - DISCORD_GUILD - The ID of your guild.<br/>
