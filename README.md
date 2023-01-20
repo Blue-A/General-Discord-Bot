@@ -37,7 +37,8 @@ There are two environmental variables that will need to be set on your computer 
 - DISCORD_GUILD - The ID of your guild.<br/>
 - DISCORD_TOKEN - The ID of your bot.<br/>
 
-Once these are set, you use the command in a terminal: python3 -m bot <br/>
+Lastly, install required the dependecies from the requirements.txt.
+Once everything else is set, you use the command in a terminal: python3 -m bot <br/>
 If this is conducted within an IDE, just execute the bot.py file.
 
 
